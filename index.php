@@ -13,7 +13,8 @@ require_once("business/Database_handler.class.php");
 require_once("business/Link.class.php");
 require_once("business/Error_handler.class.php");
 require_once('business/Logger.class.php');
- 
+
+
 	ErrorHandler::SetHandler();
 	
 	$page = "";
