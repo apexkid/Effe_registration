@@ -1,4 +1,5 @@
 <?php
+//Link factory:: generated likes for different actions. 
 class Link
 {
 	public static function Build($link, $type = 'http')
